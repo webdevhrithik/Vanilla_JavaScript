@@ -1,6 +1,6 @@
 # Vanilla_JavaScript
 
-Common Repository for Projects built with : 
+Common Repository for Projects built with Technologies Like following : 
 
 ## HTML5 / CSS3 / SCSS and "Vanilla JavaScript" 
 
