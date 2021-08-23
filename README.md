@@ -4,4 +4,4 @@ Common Repository for Projects built with Technologies Like following :
 
 ## HTML5 / CSS3 / SCSS and "Vanilla JavaScript" 
 
-Not Using Any Library Or Framework
+Not Using Any Library Or Framework its pure Magic === ( Javascript )
